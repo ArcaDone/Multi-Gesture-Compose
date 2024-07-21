@@ -11,7 +11,7 @@ This project is a Composable function-based implementation of a photo grid that 
 
 ## Video
 
-[See Video here](video/multi_gesture.mp4)
+[![See Video here](video/Screenshot.png)](video/multi_gesture.mp4)
 
 ## Usage
 
