@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MultiselectionGesture</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="clear_selection">Clear Selection</string>
+    <string name="popup_title">Popup Title\n</string>
+    <string name="popup_description">Pupup Description</string>
+    <string name="alert_cta">Alert CTA</string>
+    <string name="limit_reached">Limit Reached</string>
+    <string name="selection_description">Can\'t add more images</string>
+    <string name="on_long_press_reached">On Long Press reached!</string>
+    <string name="do_something_with_this_gesture">Do something with this gesture</string>
+    <string name="ok">OK</string>
+    <string name="selected_image_number">%s image selected</string>
+    <string name="max_selectable_image_number">Max Selectable images are : %s</string>
+</resources>
